@@ -31,22 +31,7 @@ td {
     padding: 10px;
 }
 
-#tbl_filmes{
-    border-color: blue;
-    background: #ddd;
-    padding: 10px;
-}
-
 #tbl_categorias td {
     border-color: red;
     background: #eee;
-}
-
-#tbl_filmes td{
-    border-color: red;
-    background: #eee;
-}
-
-#input{
-    margin-bottom: 10px;
 }
